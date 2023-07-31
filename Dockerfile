@@ -6,6 +6,6 @@ COPY ./* ./
 
 RUN pip install -r requirements.txt
 
-EXPOSE 80
+EXPOSE 8000
 
-ENTRYPOINT ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"] 
+ENTRYPOINT ["uvicorn", "main:app", "--host", "0.0.0.0"] 
