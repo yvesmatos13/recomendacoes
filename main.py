@@ -8,10 +8,6 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get("/")
-def getTeste():
- return {"teste":"teste"}
-
 @app.get("/recomendacoes")
 def getRecomendacoes():
     recomendacoes = []
