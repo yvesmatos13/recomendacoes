@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "64c010332f82cada58a18524"
+  },
+  "nome": "Duelo no Asfalto",
+  "tipo": "filme"
+},{
+  "_id": {
+    "$oid": "64c010b32f82cada58a18526"
+  },
+  "nome": "Aves de Rapina: Arlequina e Sua Emancipação Fantabulosa",
+  "tipo": "filme"
+},{
+  "_id": {
+    "$oid": "64c010e02f82cada58a18527"
+  },
+  "nome": "Alice - O Lado Negro do Espelho",
+  "tipo": "filme"
+},{
+  "_id": {
+    "$oid": "64c0110c2f82cada58a18529"
+  },
+  "nome": "Mortdecai: A Arte da Trapaça",
+  "tipo": "filme"
+},{
+  "_id": {
+    "$oid": "64c011342f82cada58a1852a"
+  },
+  "nome": "Sociedade Secreta dos Segundos Filhos Reais",
+  "tipo": "filme"
+},{
+  "_id": {
+    "$oid": "64c011f82f82cada58a1852f"
+  },
+  "nome": "A Lenda do Tosouro Perdido: No Limiar da História",
+  "tipo": "serie"
+},{
+  "_id": {
+    "$oid": "64c012222f82cada58a18530"
+  },
+  "nome": "Loki",
+  "tipo": "serie"
+},{
+  "_id": {
+    "$oid": "64c0123e2f82cada58a18531"
+  },
+  "nome": "Entre Laços",
+  "tipo": "serie"
+},{
+  "_id": {
+    "$oid": "64c012c12f82cada58a18534"
+  },
+  "nome": "Fubar",
+  "tipo": "serie"
+},{
+  "_id": {
+    "$oid": "64c012f82f82cada58a18535"
+  },
+  "nome": "Arquivo 81",
+  "tipo": "serie"
+}] 
