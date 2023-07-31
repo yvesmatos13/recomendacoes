@@ -8,7 +8,7 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-@app.get("/recomendacoes")
+@app.get("/")
 def getTeste():
  return {"teste":"teste"}
 
